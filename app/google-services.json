@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "238630589963",
+    "firebase_url": "https://settings-330b2-default-rtdb.firebaseio.com",
+    "project_id": "settings-330b2",
+    "storage_bucket": "settings-330b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238630589963:android:3b901491cd2df1987e190e",
+        "android_client_info": {
+          "package_name": "com.dtz.netservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJ47lP61HzdpVNto0NaDQgibSgTO3GTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238630589963:android:f6115887557c9bfd7e190e",
+        "android_client_info": {
+          "package_name": "com.example.calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJ47lP61HzdpVNto0NaDQgibSgTO3GTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238630589963:android:e8dd2fe61991845b7e190e",
+        "android_client_info": {
+          "package_name": "com.example.cpu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJ47lP61HzdpVNto0NaDQgibSgTO3GTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238630589963:android:dedaaacb801a64827e190e",
+        "android_client_info": {
+          "package_name": "com.example.settings"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJ47lP61HzdpVNto0NaDQgibSgTO3GTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
